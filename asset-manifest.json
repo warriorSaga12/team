@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/warriorSaga12/team/static/css/main.b5889f2c.css",
-    "main.js": "/warriorSaga12/team/static/js/main.975fed3e.js",
-    "static/js/787.f669ef33.chunk.js": "/warriorSaga12/team/static/js/787.f669ef33.chunk.js",
-    "index.html": "/warriorSaga12/team/index.html",
-    "main.b5889f2c.css.map": "/warriorSaga12/team/static/css/main.b5889f2c.css.map",
-    "main.975fed3e.js.map": "/warriorSaga12/team/static/js/main.975fed3e.js.map",
-    "787.f669ef33.chunk.js.map": "/warriorSaga12/team/static/js/787.f669ef33.chunk.js.map"
+    "main.css": "/team/static/css/main.b5889f2c.css",
+    "main.js": "/team/static/js/main.b8a83b87.js",
+    "static/js/787.f669ef33.chunk.js": "/team/static/js/787.f669ef33.chunk.js",
+    "index.html": "/team/index.html",
+    "main.b5889f2c.css.map": "/team/static/css/main.b5889f2c.css.map",
+    "main.b8a83b87.js.map": "/team/static/js/main.b8a83b87.js.map",
+    "787.f669ef33.chunk.js.map": "/team/static/js/787.f669ef33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5889f2c.css",
-    "static/js/main.975fed3e.js"
+    "static/js/main.b8a83b87.js"
   ]
 }
