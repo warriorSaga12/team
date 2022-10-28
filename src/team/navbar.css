@@ -1,0 +1,23 @@
+.c5{
+    height: 60px;
+    width: 98vw;
+    background: transparent;
+    border-radius: 20px;
+    position: absolute;
+    top: 24px;
+    left: 22px;
+    backdrop-filter: blur(10px);
+    z-index: 5000;
+    box-shadow: 0px 0px 10px #e62b1e,
+                0px 0px 4px #e62b1e,
+                0px 0px 8px #e62b1e,
+                0px 0px 16px #e62b1e;
+}
+
+.wrapper{
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
